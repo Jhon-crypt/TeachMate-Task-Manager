@@ -26,25 +26,19 @@ To run the application locally, follow these steps:
    git clone https://github.com/Jhon-crypt/TeachMate-Task-Manager.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd task-management-app
-   ```
-
-3. Install the dependencies:
+2. Install the dependencies:
 
    ```bash
    yarn
    ```
 
-4. Run the development server:
+3. Run the development server:
 
    ```bash
    yarn run dev
    ```
 
-5. Open your browser and visit `http://localhost:3000` to see the application.
+4. Open your browser and visit `http://localhost:3000` to see the application.
 
 ## Folder Structure
 
