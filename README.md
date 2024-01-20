@@ -1,6 +1,6 @@
-# Task Management Application
+# TeachMate-Task-Manager
 
-This is a task management application built with Next.js, TypeScript, Tailwind CSS, and Mobx State Tree. It allows users to create, view, update, and delete tasks. The application utilizes local storage for data persistence.
+This is a task management application built with Next.js, TypeScript, Tailwind CSS, and Mobx State Tree. It allows users to create, view, update, and delete tasks.
 
 ## Features
 
@@ -23,7 +23,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mozahidul01/task-management-app.git
+   git clone https://github.com/Jhon-crypt/TeachMate-Task-Manager.git
    ```
 
 2. Navigate to the project directory:
